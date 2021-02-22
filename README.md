@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
-  ![JAVA](https://camo.githubusercontent.com/7858f416aa93ee56048ca2eb473bdde10002398fc4ff05e08faf6cb3cbb5bce1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176612532302d2532334544384230302e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6a617661266c6f676f436f6c6f723d7768697465)
+  ![JAVA](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
