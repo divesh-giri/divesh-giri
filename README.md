@@ -40,7 +40,7 @@ Here are some ideas to get you started:
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Jupyter](https://camo.githubusercontent.com/7adba513e360fc04d78fe10bb6d810150ce502fc692be52905f923385655c04d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a7570797465722532302d2532334633373632362e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d4a757079746572266c6f676f436f6c6f723d7768697465)
+   ![Jupyter](https://img.shields.io/badge/-Jupyter%20Notebook-333333?style=for-the-badge&logo=Jupyter&logoColor=007ACC)
   
 
 <br/>
