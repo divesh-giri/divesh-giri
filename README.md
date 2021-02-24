@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://diveshgiri.github.io/portfolio/"><img alt="Website"
+<a href="https://divesh-giri.github.io/portfolio/"><img alt="Website"
 src="https://img.shields.io/badge/Website-Divesh Giri-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/divesh-giri-ab12151a4/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Divesh%20Giri-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:diveshgir@gmai;.com"><img alt="Email" src="https://img.shields.io/badge/Email-diveshgir@gmail.com-blue?style=flat-square&logo=gmail"></a>
