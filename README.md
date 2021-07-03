@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2> Hey there! I'm Divesh.</h2>
+<h2> Hey there! I'm Divesh Giri.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
