@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🎓 &nbsp; Studying Computer Science at DIT University, Dehradun.
-- 🎓 &nbsp; Machine Learning Practitioner
 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
