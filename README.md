@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🎓 &nbsp; Studying Computer Science at DIT University, Dehradun.
+- 🎓 &nbsp; Studying Computer Science Engineering at DIT University, Dehradun.
 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
@@ -43,6 +43,7 @@ Here are some ideas to get you started:
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
    ![Jupyter](https://img.shields.io/badge/-Jupyter%20Notebook-333333?style=for-the-badge&logo=Jupyter&logoColor=007ACC)
+   ![Remix](https://img.shields.io/badge/-Remix-333333?style=for-the-badge&logo=Remix&logoColor=007ACC)
   
 
 <br/>
