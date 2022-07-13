@@ -26,6 +26,7 @@ Here are some ideas to get you started:
   ![JAVA](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Solidity](https://img.shields.io/badge/-Solidity-333333?style=flat&logo=solidity)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
