@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🎓 &nbsp; Studying Computer Science Engineering at DIT University, Dehradun.
+- 🎓 &nbsp; Currently learning Blockchain, Solidity, Web3.
 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
